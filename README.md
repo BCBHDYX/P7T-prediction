@@ -1,4 +1,4 @@
-# P7T-based prediction of structural MRI data in the environMENTAL project
+# 7T prediction of structural MRI data in the environMENTAL project
 Leveraging Deep Learning for Early Neuroimaging Detection of Brain Disorders
 
 
