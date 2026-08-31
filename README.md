@@ -9,7 +9,7 @@ After peer review by JAMA and Nature Medicine, we made revisions about this pape
 
 Here is the latest version: Frequency-Constrained 3T-to-7T MRI Reconstruction Improves Neuroanatomical Analysis
 
-https://zenodo.org/records/22184216
+https://doi.org/10.5281/zenodo.22184216
 
 Now, we have submitted it to Nature Computational Science
 
