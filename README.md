@@ -11,6 +11,8 @@ Here is the latest version: Frequency-Constrained 3T-to-7T MRI Reconstruction Im
 
 https://zenodo.org/records/22184216
 
+Now, we have submitted it to Nature Computational Science
+
 
 
 
